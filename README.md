@@ -41,5 +41,5 @@ The main objectives of the project were:
 2. **Expand Professional Certificates**: The interest in "Professional Certificates" suggests potential for expansion, especially in high-demand fields.
 3. **Optimize High-Rated Courses for Marketing**: Highly rated and popular courses can be highlighted in marketing to attract more enrollments.
 
-Note: I have also attached the .ipynb file to this repository. You can also check the full jupyter notebook report [here](https://github.com/bayoxx/learning_management_system/blob/main/coursera__task.pdf)
 ---
+Note: I have also attached the .ipynb file to this repository. You can also check the full jupyter notebook report [here](https://github.com/bayoxx/learning_management_system/blob/main/coursera__task.pdf)
